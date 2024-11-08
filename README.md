@@ -32,14 +32,9 @@ I am a Tech Enthusiast, always looking forward to learning new skills and adding
 
 ## 💻 Competitive Programming:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-logo?style=for-the-badge&logo=leetcode&logoColor=white&color=%23f1c232)](https://leetcode.com/itsraajjjuuuu/)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-logo?style=for-the-badge&logo=codechef&logoColor=white&color=%23B7F200)](https://www.codechef.com/users/itsraajjjuuuu)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-logo?style=for-the-badge&logo=codeforces&logoColor=white&color=%23007998)](https://codeforces.com/profile/i_would_win)
+[![LeetCode](https://img.shields.io/badge/LeetCode-logo?style=for-the-badge&logo=leetcode&logoColor=white&color=%23f1c232)](https://leetcode.com/itsraajjjuuuu/)  [![CodeChef](https://img.shields.io/badge/CodeChef-logo?style=for-the-badge&logo=codechef&logoColor=white&color=%23B7F200)](https://www.codechef.com/users/itsraajjjuuuu)  [![Codeforces](https://img.shields.io/badge/Codeforces-logo?style=for-the-badge&logo=codeforces&logoColor=white&color=%23007998)](https://codeforces.com/profile/i_would_win)
+
 ![rage-anime](https://github.com/user-attachments/assets/45ab4452-7114-4e60-bbfa-fa978a3b894e)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RajuCodz&limit=5&theme=dark&combine_all_yearly_contributions=true)
