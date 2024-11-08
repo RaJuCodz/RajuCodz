@@ -1,4 +1,4 @@
-# 💫 About Me:
+![rage-anime](https://github.com/user-attachments/assets/3e549c9a-75d8-4aee-8213-9837516dbe3a)# 💫 About Me:
 I am working on mastering the art of creating and improving future technologies<br> 
 I am currently a 3rd-year IT student at NSUT, Delhi.<br> 
 I am a Tech Enthusiast, always looking forward to learning new skills and adding them to the list.<br>
@@ -31,6 +31,9 @@ I am a Tech Enthusiast, always looking forward to learning new skills and adding
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 💻 Competitive Programming:
+
+![rage-anime](https://github.com/user-attachments/assets/45ab4452-7114-4e60-bbfa-fa978a3b894e)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-logo?style=for-the-badge&logo=leetcode&logoColor=white&color=%23f1c232)](https://leetcode.com/itsraajjjuuuu/)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-logo?style=for-the-badge&logo=codechef&logoColor=white&color=%23B7F200)](https://www.codechef.com/users/itsraajjjuuuu)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-logo?style=for-the-badge&logo=codeforces&logoColor=white&color=%23007998)](https://codeforces.com/profile/i_would_win)
