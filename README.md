@@ -1,4 +1,4 @@
-![rage-anime](https://github.com/user-attachments/assets/3e549c9a-75d8-4aee-8213-9837516dbe3a)# 💫 About Me:
+💫 About Me:
 I am working on mastering the art of creating and improving future technologies<br> 
 I am currently a 3rd-year IT student at NSUT, Delhi.<br> 
 I am a Tech Enthusiast, always looking forward to learning new skills and adding them to the list.<br>
