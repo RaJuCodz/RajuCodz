@@ -30,6 +30,11 @@ I am a Tech Enthusiast, always looking forward to learning new skills and adding
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## 💻 Competitive Programming:
+[![LeetCode](https://img.shields.io/badge/LeetCode-logo?style=for-the-badge&logo=leetcode&logoColor=white&color=%23f1c232)](https://leetcode.com/itsraajjjuuuu/)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-logo?style=for-the-badge&logo=codechef&logoColor=white&color=%23B7F200)](https://www.codechef.com/users/itsraajjjuuuu)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-logo?style=for-the-badge&logo=codeforces&logoColor=white&color=%23007998)](https://codeforces.com/profile/i_would_win)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
