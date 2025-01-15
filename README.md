@@ -4,7 +4,7 @@
 
 <hr>
 
-# Hey there! I'm <a href = "https://www.linkedin.com/in/raju-gupta-871925280/">Raju Gupta</a>. Welcome to my GitHub👋
+# Hey there! I'm <a href = "[https://www.linkedin.com/in/raju-gupta-871925280/](https://media.licdn.com/dms/image/v2/D5603AQFhMG-lqajkqA/profile-displayphoto-shrink_400_400/B56ZNeWBB.HYAg-/0/1732454651450?e=1742428800&v=beta&t=0DOaeaK2ffctzyYhbbUvdegUiGu2nc7xdDOxAa7qCjc)">Raju Gupta</a>. Welcome to my GitHub👋
 
 Third-year IT student at [NSUT, Delhi](https://www.nsut.ac.in).  
 Tech Enthusiast, always looking forward to learning new skills and adding them to the list.  
@@ -50,15 +50,11 @@ I'm open to collaborating on projects related to my interests. If you have an ex
 <div align="center">
     <table width="100%">
         <tr>
-            <td width="50%">
+            <td width="100%">
                 <h3><b>Profile Visits</b></h3>
                 <img width="80%" src="https://profile-counter.glitch.me/{RajuCodz}/count.svg">
                 <h3><b>LeetCode Stats</b></h3>
                 <img src="https://leetcard.jacoblin.cool/itsraajjjuuuu?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats" width="100%">
-            </td>
-            <td width="50%">
-                <h3><b>Codeforces Stats</b></h3>
-                <img src="https://codeforces-readme-stats.vercel.app/api?username=itsraajjjuuuu&theme=dark" alt="Codeforces Stats" width="100%">
             </td>
         </tr>
     </table>
