@@ -47,7 +47,7 @@ I'm open to collaborating on projects related to my interests. If you have an ex
 <hr>
 
 <div align="center">
-    <table width="100%">
+    <table width="80%">
         <tr>
             <td width="100%">
                 <h3><b>Profile Visits</b></h3>
@@ -57,14 +57,6 @@ I'm open to collaborating on projects related to my interests. If you have an ex
             </td>
         </tr>
     </table>
-</div>
-
-<div align="center">
-    <h3><b>Latest Work</b></h3>
-    <a href="https://your-latest-work-link.com" target="_blank">
-        <img src="https://github.com/user-attachments/assets/your_image_path_here" alt="Latest Work" width="100%">
-    </a>
-    <p><a href="https://your-latest-work-link.com" target="_blank">View website ↗</a></p>
 </div>
 
 ### Star 🌟 some of my repos if you like them!
