@@ -1,46 +1,86 @@
-# Hey I'm Raju Gupta. A passionate Web Developer.
+<div style="width: 100%; overflow: hidden;">
+    <img style="width: 100%; height: auto; display: block; margin: 0 auto;" src="https://github.com/RajuCodz/RajuCodz/assets/your_image_path_here" alt="Raju Gupta | README Banner">
+</div>
 
+<hr>
 
-💫 About Me:
+# Hey there! I'm <a href = "https://www.linkedin.com/in/raju-gupta-871925280/">Raju Gupta</a>. Welcome to my GitHub👋
 
-I am working on mastering the art of creating and improving future technologies<br> 
-I am currently a 3rd-year IT student at NSUT, Delhi.<br> 
-I am a Tech Enthusiast, always looking forward to learning new skills and adding them to the list.<br>
+Third-year IT student at [NSUT, Delhi](https://www.nsut.ac.in).  
+Tech Enthusiast, always looking forward to learning new skills and adding them to the list.  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsraajjjuuuu) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raju-gupta-871925280) 
+## Strengths 🤞
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- **Programming Languages**: C++, Python, JavaScript
+- **Frontend Development**: React, TailwindCSS, Vite
+- **Backend Development**: Node.js, Express.js
+- **Database Technologies**: MongoDB, Firebase
+- **Version Control**: Git, GitHub
 
-## 💻 Competitive Programming:
+## Languages, Tools, and Technologies 🚀 
+<table>
+	<tr>
+		<td><strong>Programming Languages</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=cpp,py,js&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Frontend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Backend Development</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Database Technologies</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=mongodb,firebase&theme=dark"></td>
+	</tr>
+	<tr>
+		<td><strong>Version Control</strong></td>
+		<td><img height=40 src="https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+	</tr>
+</table>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-logo?style=for-the-badge&logo=leetcode&logoColor=white&color=%23f1c232)](https://leetcode.com/itsraajjjuuuu/)  [![CodeChef](https://img.shields.io/badge/CodeChef-logo?style=for-the-badge&logo=codechef&logoColor=white&color=%23B7F200)](https://www.codechef.com/users/itsraajjjuuuu)  [![Codeforces](https://img.shields.io/badge/Codeforces-logo?style=for-the-badge&logo=codeforces&logoColor=white&color=%23007998)](https://codeforces.com/profile/i_would_win)
+## Collaboration 🤝
 
-![rage-anime](https://github.com/user-attachments/assets/45ab4452-7114-4e60-bbfa-fa978a3b894e)
+I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email, LinkedIn, or Instagram.
+
+<hr>
+
+<div align="center">
+    <table width="100%">
+        <tr>
+            <td width="30%">
+                <h3><b>Profile Visits</b></h3>
+                <img width="80%" src="https://profile-counter.glitch.me/{RajuCodz}/count.svg">
+                <h3><b>LeetCode Stats</b></h3>
+                <img src="https://leetcard.jacoblin.cool/itsraajjjuuuu?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats">
+            </td>
+            <td width="70%">
+                <h3><b>Latest Work</b></h3>
+                <a href="https://your-latest-work-link.com" target="_blank">
+                    <img src="https://github.com/user-attachments/assets/your_image_path_here" alt="Latest Work" width="100%">
+                </a>
+                <p><a href="https://your-latest-work-link.com" target="_blank">View website ↗</a></p>
+            </td>
+        </tr>
+    </table>
+</div>
+
+### Star 🌟 some of my repos if you like them!
+<hr>
+
+## Contact 📫 
+
+To get in touch with me, please send an email to [raju.gupta@example.com](mailto:raju.gupta@example.com). I'll do my best to respond promptly.
+
+## Find Me on ✨LinkedIn✨
+
+You can find my LinkedIn profile here: [linkedin.com/in/raju-gupta-871925280](https://www.linkedin.com/in/raju-gupta-871925280). 
+
+Feel free to explore my repositories and contributions. Happy coding!
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RajuCodz&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
