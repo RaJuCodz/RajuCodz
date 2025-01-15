@@ -45,7 +45,6 @@ I am a Tech Enthusiast, always looking forward to learning new skills and adding
 I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email, LinkedIn.
 
 <hr>
-
 <div align="center">
     <table width="80%">
         <tr>
@@ -58,7 +57,12 @@ I'm open to collaborating on projects related to my interests. If you have an ex
         </tr>
     </table>
 </div>
-![rage-anime](https://github.com/user-attachments/assets/45ab4452-7114-4e60-bbfa-fa978a3b894e)
+
+<!-- Replace the URL below with the correct one -->
+![rage-anime](https://github.com/RajuCodz/RajuCodz/blob/main/assets/your-gif-file.gif?raw=true)
+
+### Star 🌟 some of my repos if you like them!
+<hr>
 
 ### Star 🌟 some of my repos if you like them!
 <hr>
