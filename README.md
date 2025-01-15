@@ -43,28 +43,33 @@ Tech Enthusiast, always looking forward to learning new skills and adding them t
 
 ## Collaboration 🤝
 
-I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email, LinkedIn, or Instagram.
+I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email, LinkedIn.
 
 <hr>
 
 <div align="center">
     <table width="100%">
         <tr>
-            <td width="30%">
+            <td width="50%">
                 <h3><b>Profile Visits</b></h3>
                 <img width="80%" src="https://profile-counter.glitch.me/{RajuCodz}/count.svg">
                 <h3><b>LeetCode Stats</b></h3>
-                <img src="https://leetcard.jacoblin.cool/itsraajjjuuuu?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats">
+                <img src="https://leetcard.jacoblin.cool/itsraajjjuuuu?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats" width="100%">
             </td>
-            <td width="70%">
-                <h3><b>Latest Work</b></h3>
-                <a href="https://your-latest-work-link.com" target="_blank">
-                    <img src="https://github.com/user-attachments/assets/your_image_path_here" alt="Latest Work" width="100%">
-                </a>
-                <p><a href="https://your-latest-work-link.com" target="_blank">View website ↗</a></p>
+            <td width="50%">
+                <h3><b>Codeforces Stats</b></h3>
+                <img src="https://codeforces-readme-stats.vercel.app/api?username=itsraajjjuuuu&theme=dark" alt="Codeforces Stats" width="100%">
             </td>
         </tr>
     </table>
+</div>
+
+<div align="center">
+    <h3><b>Latest Work</b></h3>
+    <a href="https://your-latest-work-link.com" target="_blank">
+        <img src="https://github.com/user-attachments/assets/your_image_path_here" alt="Latest Work" width="100%">
+    </a>
+    <p><a href="https://your-latest-work-link.com" target="_blank">View website ↗</a></p>
 </div>
 
 ### Star 🌟 some of my repos if you like them!
@@ -72,7 +77,7 @@ I'm open to collaborating on projects related to my interests. If you have an ex
 
 ## Contact 📫 
 
-To get in touch with me, please send an email to [raju.gupta@example.com](mailto:raju.gupta@example.com). I'll do my best to respond promptly.
+To get in touch with me, please send an email to [itsraajjjuuuu@gmail.com](mailto:raju.gupta@example.com). I'll do my best to respond promptly.
 
 ## Find Me on ✨LinkedIn✨
 
@@ -81,6 +86,3 @@ You can find my LinkedIn profile here: [linkedin.com/in/raju-gupta-871925280](ht
 Feel free to explore my repositories and contributions. Happy coding!
 
 ---
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RajuCodz&limit=5&theme=dark&combine_all_yearly_contributions=true)
