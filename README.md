@@ -1,13 +1,12 @@
-<div style="width: 100%; overflow: hidden;">
-    <img style="width: 100%; height: auto; display: block; margin: 0 auto;" src="https://github.com/RajuCodz/RajuCodz/assets/your_image_path_here" alt="Raju Gupta | README Banner">
-</div>
+# Hey I'm Raju Gupta. A passionate Web Developer.
 
-<hr>
 
-# Hey there! I'm <a href = "[https://www.linkedin.com/in/raju-gupta-871925280/](https://media.licdn.com/dms/image/v2/D5603AQFhMG-lqajkqA/profile-displayphoto-shrink_400_400/B56ZNeWBB.HYAg-/0/1732454651450?e=1742428800&v=beta&t=0DOaeaK2ffctzyYhbbUvdegUiGu2nc7xdDOxAa7qCjc)">Raju Gupta</a>. Welcome to my GitHub👋
+💫 About Me:
 
-Third-year IT student at [NSUT, Delhi](https://www.nsut.ac.in).  
-Tech Enthusiast, always looking forward to learning new skills and adding them to the list.  
+I am working on mastering the art of creating and improving future technologies<br> 
+I am currently a 3rd-year IT student at NSUT, Delhi.<br> 
+I am a Tech Enthusiast, always looking forward to learning new skills and adding them to the list.<br>
+
 
 ## Strengths 🤞
 
