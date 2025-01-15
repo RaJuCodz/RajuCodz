@@ -58,6 +58,7 @@ I'm open to collaborating on projects related to my interests. If you have an ex
         </tr>
     </table>
 </div>
+![rage-anime](https://github.com/user-attachments/assets/45ab4452-7114-4e60-bbfa-fa978a3b894e)
 
 ### Star 🌟 some of my repos if you like them!
 <hr>
