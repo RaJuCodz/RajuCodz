@@ -64,9 +64,6 @@ I'm open to collaborating on projects related to my interests. If you have an ex
 ### Star 🌟 some of my repos if you like them!
 <hr>
 
-### Star 🌟 some of my repos if you like them!
-<hr>
-
 ## Contact 📫 
 
 To get in touch with me, please send an email to [itsraajjjuuuu@gmail.com](mailto:raju.gupta@example.com). I'll do my best to respond promptly.
