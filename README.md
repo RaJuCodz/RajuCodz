@@ -45,18 +45,7 @@ I am a Tech Enthusiast, always looking forward to learning new skills and adding
 I'm open to collaborating on projects related to my interests. If you have an exciting project or idea in mind, I'd love to hear about it! You can reach out to me through Email, LinkedIn.
 
 <hr>
-<div align="center">
-    <table width="80%">
-        <tr>
-            <td width="100%">
-                <h3><b>Profile Visits</b></h3>
-                <img width="80%" src="https://profile-counter.glitch.me/{RajuCodz}/count.svg">
-                <h3><b>LeetCode Stats</b></h3>
-                <img src="https://leetcard.jacoblin.cool/itsraajjjuuuu?theme=dark&font=Carrois%20Gothic%20SC&ext=contest" alt="LeetCode Stats" width="100%">
-            </td>
-        </tr>
-    </table>
-</div>
+
 
 <!-- Replace the URL below with the correct one -->
 ![rage-anime](https://github.com/RajuCodz/RajuCodz/blob/main/assets/your-gif-file.gif?raw=true)
